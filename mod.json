@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0-beta.15",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "iristraa.geometrydex",
+	"name": "GeometryDex",
+	"developer": "iristraa",
+	"description": "Keep track of how many GD collectibles you obtained!",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.2.0",
+            "importance": "required"
+        }
+    ]
+}
